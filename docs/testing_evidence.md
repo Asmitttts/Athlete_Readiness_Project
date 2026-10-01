@@ -49,3 +49,19 @@ The validation system successfully detected:
 {
   "status": "healthy"
 }
+
+## Automated Test Result
+
+The project automated data-validation test was executed using pytest.
+
+Command:
+
+```bash
+python -m pytest -q
+
+Result:
+
+1 passed
+
+The test successfully verifies that invalid duration, distance, intensity, sleep, recovery and date values are detected.
+
