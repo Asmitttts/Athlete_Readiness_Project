@@ -250,11 +250,10 @@ Pydantic
 Git & GitHub
 Docker configuration
 
-## 👨‍💻 Project
+👨‍💻 Project
 
-**Athlete Readiness Modeling with Personalized Baselines and Workload Anomaly Detection**
+"Athlete Readiness Modeling with Personalized Baselines and Workload Anomaly Detection."
 
 Developed as a T.Y. B.Sc. Data Science capstone project.
-
 Name: Asmit Arvind Shah  
 Roll No.: TDDS015B
