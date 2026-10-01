@@ -256,5 +256,5 @@ Docker configuration
 
 Developed as a T.Y. B.Sc. Data Science capstone project.
 
-**Name:** Asmit Arvind Shah  
-**Roll No.:** TDDS015B
+Name: Asmit Arvind Shah  
+Roll No.: TDDS015B
