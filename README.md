@@ -250,7 +250,7 @@ Pydantic
 Git & GitHub
 Docker configuration
 
-## 👨‍💻 Project
+👨‍💻 Project
 
 **Athlete Readiness Modeling with Personalized Baselines and Workload Anomaly Detection**
 
