@@ -54,7 +54,7 @@ The validation system successfully detected:
 
 The project automated data-validation test was executed using pytest.
 
-Command:
+**Command:**
 
 ```bash
 python -m pytest -q
@@ -63,5 +63,22 @@ Result:
 
 1 passed
 
-The test successfully verifies that invalid duration, distance, intensity, sleep, recovery and date values are detected.
+he test successfully verifies that invalid duration, distance, intensity, sleep, recovery, and date values are detected correctly.
+
+### API Health Test
+
+Endpoint: /health
+
+Expected: HTTP 200
+
+Observed: HTTP 200
+
+Response:
+
+{
+  "status": "healthy"
+}
+
+The API health check successfully confirms that the Athlete Readiness API is running and responding correctly.
+
 
