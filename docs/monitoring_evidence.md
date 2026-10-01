@@ -29,3 +29,15 @@ Successful response:
 {
   "status": "healthy"
 }
+
+
+### 3. Monitoring Verification
+
+The API health endpoint was tested successfully during operational verification.
+
+- Endpoint: `GET /health`
+- Expected status: HTTP 200
+- Observed status: HTTP 200
+- Response status: `healthy`
+
+This confirms that the API service was running and responding successfully during the monitoring check.
